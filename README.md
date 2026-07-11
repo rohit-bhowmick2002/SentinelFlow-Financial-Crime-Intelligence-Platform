@@ -1,4 +1,4 @@
-# SentinelFlow — Financial Crime Intelligence Platform
+# Fraud Detection & AML Analytics Platform
 
 **Enterprise fraud detection • AML typology analytics • 1,000,000 synthetic transactions • Production-grade**
 
